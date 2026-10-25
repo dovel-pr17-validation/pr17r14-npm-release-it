@@ -80,7 +80,7 @@
   "dependencies": {
     "@inquirer/prompts": "8.7.3",
     "@octokit/rest": "22.0.1",
-    "@phun-ky/typeof": "2.0.3",
+    "@phun-ky/typeof": "3.0.9",
     "async-retry": "1.3.3",
     "c12": "3.3.4",
     "ci-info": "^4.4.0",
